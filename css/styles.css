@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 10px;
+  width: 6%;
+}
+h1 {
+  color: ORANGE;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  color: orange;
+  text-decoration: underline;
+}
+
+h3 {
+  color: Orange;
+  font-family: 'Inspiration', cursive;
+  text-decoration: underline;
+  text-decoration: underline;
+}
+
+div {
+  background-color: #E4F9F5;
+}
+
+p {
+  color: orange;
+  font-family: 'Cinzel', serif;
+}
+
+.Top-container {
+  background-color: #E4F9F5;
+  margin: 0px;
+  padding-top: 20px;
+  position: relative;
+
+}
+
+.Middle-container {
+  background-color: #E4F9F5;
+  margin: 0px;
+}
+
+.Bottom-container {
+  margin: 0px;
+}
+
+.basketball {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+}
+
+.right-jumpman {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  margin-left: 500px;
+}
+
+.left-jumpman {
+  height: 100px;
+  width: 100px;
+  margin-right: 500px;
+  bottom: 50px;
+}
+
+.court {
+  margin: auto;
+  padding: 20px;
+}
+.pstyle {
+  color: orange;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+}
